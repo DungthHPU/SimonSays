@@ -12,5 +12,6 @@
 *.o
 *.a
 mkmf.log
+.ruby-version
 
 /test/rails_app/db/*.sqlite3
